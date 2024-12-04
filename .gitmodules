@@ -1,0 +1,27 @@
+[submodule "review-service"]
+	path = review-service
+	url = https://github.com/vuxuanthanh1203/findjob-review-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/vuxuanthanh1203/findjob-notification-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/vuxuanthanh1203/findjob-order-service.git
+[submodule "gig-service"]
+	path = gig-service
+	url = https://github.com/vuxuanthanh1203/findjob-gig-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/vuxuanthanh1203/findjob-gateway-service.git
+[submodule "chat-service"]
+	path = chat-service
+	url = https://github.com/vuxuanthanh1203/findjob-chat-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/vuxuanthanh1203/findjob-auth-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/vuxuanthanh1203/findjob-user-service.git
+[submodule "helper-library"]
+	path = helper-library
+	url = https://github.com/vuxuanthanh1203/findjob-helpers-lib.git
